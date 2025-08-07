@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm EarkAeng
+# 👋 Hi there! I'm Eark
 
 📄 **My Resume** → [Click here 🚀](#)  
 > *(Replace `#` with a real link to your resume if you have one)*
