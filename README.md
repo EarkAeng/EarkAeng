@@ -43,5 +43,5 @@
 ## 📬 Contact Me
 
 - GitHub: [github.com/EarkAeng](https://github.com/EarkAeng)
-- Email: *phasakorncha@gmail.com*
+- Email: *phasakorn.c@ku.th*
 
