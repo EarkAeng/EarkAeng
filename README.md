@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Eark
 
 📄 **My Resume** → [Click here 🚀](https://earkaeng.github.io/vite/)  
-> *(Replace `#` with a real link to your resume if you have one)*
 
 ---
 
