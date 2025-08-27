@@ -43,6 +43,5 @@
 ## 📬 Contact Me
 
 - GitHub: [github.com/EarkAeng](https://github.com/EarkAeng)
-- Email: *youremail@example.com*
-- Portfolio: *(coming soon or add your link)*
+- Email: *phasakorncha@gmail.com*
 
